@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `myEmoji`,
-      href: "https://github.com/dogeonK/myemoji-Django",
+      href: "",
     },
   ],
   // blog setting (required)
